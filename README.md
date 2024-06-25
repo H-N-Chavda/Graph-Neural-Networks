@@ -3,7 +3,7 @@
 
 **Week 1-2**
 
-1.Neural Networks by 3Blue1Brown, this gives you a very good intuition of it: https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=QJ679pZPtQr2qU8p
+1. Neural Networks by 3Blue1Brown, this gives you a very good intuition of it: https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=QJ679pZPtQr2qU8p
 
 2. This playlist of Sentdex gives more understanding of Neural Networks by coding using Python(No Pytorch used): https://youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&si=_Y1BeTlQxYuDXpIT
 
